@@ -1,5 +1,4 @@
 # Smart Building Energy Predictor
-
 A simple ML project that predicts heating and cooling loads of buildings using architectural features.
 
 ---
